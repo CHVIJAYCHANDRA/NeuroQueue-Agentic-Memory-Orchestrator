@@ -1,0 +1,7 @@
+python-dotenv
+streamlit
+rich
+sentence-transformers
+numpy
+faiss-cpu
+
